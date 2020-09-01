@@ -25,7 +25,7 @@ _After cloning you’ll probably want to delete the initial `_data/sites/*.js` f
 
 Speedlify will also save your data to `/results.zip` so that you can download later. Though this has proved to be unnecessary so far, it does serve as a fallback backup mechanism in case the Netlify cache is lost. Just look up your previous build URL and download the data to restore.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7298a132-e366-460a-a4da-1ea352a4e790/deploy-status)](https://app.netlify.com/sites/speedlify/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eaf4da31-b287-4cfd-acc9-2d3d848d56ac/deploy-status)](https://app.netlify.com/sites/nervous-haibt-3f697b/deploys)
 
 ## Known Limitations
 
