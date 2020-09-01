@@ -5,7 +5,7 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://www.londoncss.com/",
+		"https://www.londoncss.dev/",
 		"https://www.oliverturner.cloud/"
 	]
 };
